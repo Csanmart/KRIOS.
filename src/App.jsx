@@ -1,4 +1,4 @@
-import "./style/app.css";
+import "./style/App.css";
 import Countdown from "./components/Countdonw";
 import MusicPlayer from "./components/MusicPlayer";
 import { useCallback, useState } from "react";
