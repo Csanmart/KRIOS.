@@ -1,1 +1,1 @@
-export const launchDate = null;
+export const launchDate = "2026-12-15T20:00:00-05:00";
