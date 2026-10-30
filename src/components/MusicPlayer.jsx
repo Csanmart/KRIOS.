@@ -26,7 +26,7 @@ function MusicPlayer(){
         <div className="music-player">
             <audio 
             ref={audioRef}
-            src="../public/audio/TrapMusic.mp3"
+            src="./audio/TrapMusic.mp3"
             loop
             onEnded={()=>setPlaying(false)}
             onPause={()=>setPlaying(false)}
